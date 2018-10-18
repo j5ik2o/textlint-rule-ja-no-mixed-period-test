@@ -1,0 +1,27 @@
+{
+  "name": "textlint-rule-ja-no-mixed-period-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/textlint --no-color -f pretty-error *.re",
+    "lintfix": "./node_modules/.bin/textlint --no-color --fix -f pretty-error *.re"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j5ik2o/ddd-scala-mynavi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "textlint": "^11.0.1",
+    "textlint-plugin-review": "^0.3.3",
+    "textlint-rule-ja-no-mixed-period": "^2.1.0"
+  },
+  "dependencies": {}
+}

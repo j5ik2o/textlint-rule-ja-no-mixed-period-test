@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "ja-no-mixed-period": true
+  },
+  "plugins": [
+    "review"
+  ]
+}

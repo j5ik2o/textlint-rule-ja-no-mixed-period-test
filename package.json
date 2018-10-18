@@ -21,7 +21,7 @@
   "devDependencies": {
     "textlint": "^11.0.1",
     "textlint-plugin-review": "^0.3.3",
-    "textlint-rule-ja-no-mixed-period": "^2.1.0"
+    "textlint-rule-ja-no-mixed-period": "^2.1.1"
   },
   "dependencies": {}
 }
